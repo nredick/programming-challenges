@@ -1,4 +1,4 @@
-from typing import *
+from typing import List
 
 class Solution:
     def firstUniqChar(self, s: str) -> int:
